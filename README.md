@@ -17,3 +17,7 @@ System to control a blind using a Raspberry Pi. The system  has 3 different mode
 - Time control:
 
   Real time clock
+
+- User control
+  
+  /
