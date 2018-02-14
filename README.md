@@ -12,8 +12,8 @@ System to control a blind using a Raspberry Pi. The system  has 3 different mode
 
 - Photo sensitive control mode:
 
-Photosensitive transistor and Capacitor
+  Photosensitive transistor and Capacitor
 
 - Time control:
 
-Real time clock
+  Real time clock
